@@ -1,0 +1,11 @@
+.statistics_list {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+
+.statistics_item {
+  font-size: 18px;
+  font-weight: 600;
+}
